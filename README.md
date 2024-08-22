@@ -16,9 +16,11 @@ Using various data preprocessing techniques, such as normalization and dummifica
 ## Files Overview
 
 * main_complete.ipynb
+  
 This file contains all the data preprocessing, model optimization, and results without feature selection.
 
 * main_fisher.ipynb
+  
 This file contains all the data preprocessing, feature selection using Fisher's Exact Test, model optimization, and final results.
 
 ## Dataset
