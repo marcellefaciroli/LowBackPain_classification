@@ -25,5 +25,5 @@ This file contains all the data preprocessing, feature selection using Fisher's 
 
 ## Dataset
 
-If you wish to access the complete dataset used in this work, please contact the orthopedist Dr. Jair Moreira Dias Jr., who is responsible for selecting the patients who completed the questionnaire. 
+If you wish to access the complete dataset used in this work, please contact the orthopedist Dr. Jair Moreira Dias Jr., who is responsible for selecting the patients who took part in the survey. 
 E-mail: jairdias2@gmail.com
